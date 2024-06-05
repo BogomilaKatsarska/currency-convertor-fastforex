@@ -113,7 +113,7 @@ def save_to_conversions(date, amount, base_curr, target_curr, converted_amount):
         })
         json.dump(Thing, f)
         '''
-    '''
+
     conversions = {
         "date": date,
         "amount": amount,
@@ -125,7 +125,7 @@ def save_to_conversions(date, amount, base_curr, target_curr, converted_amount):
 
     with open("conversions.json", "a") as outfile:
         json.dump(conversions, outfile)
-    '''
+
     '''
     Below not working:
     conversions = {
