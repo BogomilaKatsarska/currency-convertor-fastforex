@@ -1,1 +1,51 @@
-{"stuff": [{"date": "2024-06-03", "amount": "34.00", "base_currency": "BGN", "target_currency": "USD", "converted_amount": "18.88"}]}{"stuff": [{"date": "2024-06-02", "amount": "22.00", "base_currency": "BGN", "target_currency": "USD", "converted_amount": "12.22"}]}
+[
+  {
+    "date": "2024-06-01",
+    "amount": "34.00",
+    "base_currency": "BGN",
+    "target_currency": "USD",
+    "converted_amount": "18.89"
+  },
+  {
+    "date": "2024-06-02",
+    "amount": "34.00",
+    "base_currency": "BGN",
+    "target_currency": "USD",
+    "converted_amount": "18.89"
+  },
+  {
+    "date": "2024-06-01",
+    "amount": "34.00",
+    "base_currency": "BGN",
+    "target_currency": "USD",
+    "converted_amount": "18.89"
+  },
+  {
+    "date": "2024-06-01",
+    "amount": "34.00",
+    "base_currency": "BGN",
+    "target_currency": "USD",
+    "converted_amount": "18.89"
+  },
+  {
+    "date": "2024-06-01",
+    "amount": "34.00",
+    "base_currency": "BGN",
+    "target_currency": "USD",
+    "converted_amount": "18.89"
+  },
+  {
+    "date": "2024-06-02",
+    "amount": "1.00",
+    "base_currency": "BGN",
+    "target_currency": "USD",
+    "converted_amount": "0.56"
+  },
+  {
+    "date": "2024-06-01",
+    "amount": "1.00",
+    "base_currency": "GBP",
+    "target_currency": "BGN",
+    "converted_amount": "2.29"
+  }
+]
