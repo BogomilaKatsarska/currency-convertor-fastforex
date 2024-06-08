@@ -12,26 +12,5 @@
     "base_currency": "CAD",
     "target_currency": "USD",
     "converted_amount": "72.22"
-  },
-  {
-    "date": "2024-06-06",
-    "amount": "99.00",
-    "base_currency": "CAD",
-    "target_currency": "USD",
-    "converted_amount": "72.22"
-  },
-  {
-    "date": "2024-06-06",
-    "amount": "1.00",
-    "base_currency": "GBP",
-    "target_currency": "BGN",
-    "converted_amount": "2.29"
-  },
-  {
-    "date": "2024-06-06",
-    "amount": "1.00",
-    "base_currency": "CAD",
-    "target_currency": "GBP",
-    "converted_amount": "0.57"
   }
 ]
